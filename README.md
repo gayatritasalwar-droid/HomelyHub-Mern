@@ -21,5 +21,4 @@ The application allows users to view, rent, or list properties for sale and expl
 # Demo
 Demo Link: <https://youtu.be/WyuUz8AhOKs>
 
-Status
-Internship Project
+
